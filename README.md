@@ -1,5 +1,3 @@
-# health-information-robustness-nlp
-NLP classification and robustness analysis for dataset-defined health-information reliability and human-vs-AI originality.
 # Health Information NLP: Performance, Robustness and Shortcut Learning
 
 NLP classification and robustness analysis using the MM-Health dataset, developed as part of an MSc Data Science and Artificial Intelligence dissertation at Queen Mary University of London.
