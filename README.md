@@ -43,6 +43,16 @@ RoBERTa achieved the strongest performance on the standard benchmark and was the
 | Normalised TF-IDF lexical classifier | 0.988 |
 | Normalised RoBERTa originality | 0.999 |
 
+## Selected Results
+
+### RoBERTa Reliability Classification
+
+![RoBERTa reliability confusion matrix](figures/roberta_reliability_confusion_matrix.png)
+
+### Human–AI Stylometric Differences
+
+![Paired human–AI stylometric differences](figures/paired_human_ai_stylometric_differences.png)
+
 The main finding is that near-perfect performance on a familiar benchmark does not necessarily imply robust generalisation.
 
 For reliability classification, performance fell substantially when the same underlying test articles were represented as AI-generated text. Cross-source testing also produced lower performance when individual MM-Health component datasets were excluded from training.
